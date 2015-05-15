@@ -1,0 +1,21 @@
+{
+  "name": "toba-batak-dictionary",
+  "version": "0.0.0",
+  "description": "Toba Batak Dictionary Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "toba",
+    "batak",
+    "sumatra",
+    "indonesia"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/toba-batak-dictionary.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}

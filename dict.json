@@ -1,0 +1,1964 @@
+[
+	{
+		"english": "to be able",
+		"batak": "boe/i + verb"
+	},
+	{
+		"english": "age",
+		"batak": "umurna"
+	},
+	{
+		"english": "almost",
+		"batak": "laho"
+	},
+	{
+		"english": "all",
+		"batak": "sude"
+	},
+	{
+		"english": "also",
+		"batak": "dohot"
+	},
+	{
+		"english": "always",
+		"batak": "torus"
+	},
+	{
+		"english": "amazing",
+		"batak": "ulihian"
+	},
+	{
+		"english": "and",
+		"batak": "dohot"
+	},
+	{
+		"english": "to argue",
+		"batak": "martokkar"
+	},
+	{
+		"english": "to answer",
+		"batak": "mangalusi, alusi art"
+	},
+	{
+		"english": "at",
+		"batak": "di"
+	},
+	{
+		"english": "awful",
+		"batak": "hassitan, ngerihian"
+	},
+	{
+		"english": "baby",
+		"batak": "ucok (before baptism), gelleng"
+	},
+	{
+		"english": "bad",
+		"batak": "roa"
+	},
+	{
+		"english": "bag",
+		"batak": "gajut"
+	},
+	{
+		"english": "beautiful, nice",
+		"batak": "bagak"
+	},
+	{
+		"english": "beautiful, pretty (for girl)",
+		"batak": "uli"
+	},
+	{
+		"english": "because",
+		"batak": "alani"
+	},
+	{
+		"english": "to begin",
+		"batak": "patwolo"
+	},
+	{
+		"english": "below",
+		"batak": "jonok"
+	},
+	{
+		"english": "beside",
+		"batak": "jenek"
+	},
+	{
+		"english": "better",
+		"batak": "denggan"
+	},
+	{
+		"english": "between",
+		"batak": "golakni"
+	},
+	{
+		"english": "bicycle",
+		"batak": "lereng"
+	},
+	{
+		"english": "bill/cheuque - bon"
+	},
+	{
+		"english": "bird",
+		"batak": "andukur"
+	},
+	{
+		"english": "to bite",
+		"batak": "mangkarut"
+	},
+	{
+		"english": "bitter (feeling)",
+		"batak": "migar"
+	},
+	{
+		"english": "blood",
+		"batak": "mudar"
+	},
+	{
+		"english": "book",
+		"batak": "sijahaon"
+	},
+	{
+		"english": "boss",
+		"batak": "tokke"
+	},
+	{
+		"english": "boy",
+		"batak": "baowa"
+	},
+	{
+		"english": "brave",
+		"batak": "barani"
+	},
+	{
+		"english": "bread",
+		"batak": "kue"
+	},
+	{
+		"english": "to bring",
+		"batak": "mamboan, boanon"
+	},
+	{
+		"english": "to bring (a present)",
+		"batak": "marsilua"
+	},
+	{
+		"english": "broken",
+		"batak": "sega, malengleng"
+	},
+	{
+		"english": "to burn",
+		"batak": "manutung"
+	},
+	{
+		"english": "busy",
+		"batak": "repot"
+	},
+	{
+		"english": "to buy",
+		"batak": "manuhor"
+	},
+	{
+		"english": "camera",
+		"batak": "tustel"
+	},
+	{
+		"english": "can (v.)",
+		"batak": "boe/i + verb"
+	},
+	{
+		"english": "canoe (small boat) - solu"
+	},
+	{
+		"english": "careful",
+		"batak": "nanget-nanget"
+	},
+	{
+		"english": "to carry",
+		"batak": "mamboan"
+	},
+	{
+		"english": "to cause (to happen) - mambahen"
+	},
+	{
+		"english": "chair",
+		"batak": "huudulan"
+	},
+	{
+		"english": "cheap",
+		"batak": "mura, muranai"
+	},
+	{
+		"english": "child (sg./pl.)",
+		"batak": "dakdaknak"
+	},
+	{
+		"english": "children",
+		"batak": "ianakkon"
+	},
+	{
+		"english": "cigarettes",
+		"batak": "timbaho, sigare"
+	},
+	{
+		"english": "clean",
+		"batak": "ias"
+	},
+	{
+		"english": "to close",
+		"batak": "manutup"
+	},
+	{
+		"english": "close (adj.)",
+		"batak": "jenek"
+	},
+	{
+		"english": "to come",
+		"batak": "ro"
+	},
+	{
+		"english": "to cook",
+		"batak": "mangaloppa"
+	},
+	{
+		"english": "comfortable",
+		"batak": "lambok"
+	},
+	{
+		"english": "community",
+		"batak": "huta"
+	},
+	{
+		"english": "country",
+		"batak": "luat"
+	},
+	{
+		"english": "crazy",
+		"batak": "rittik, senu, sedang"
+	},
+	{
+		"english": "to cry",
+		"batak": "taritu"
+	},
+	{
+		"english": "to cut",
+		"batak": "maneat"
+	},
+	{
+		"english": "to dance",
+		"batak": "marjoget"
+	},
+	{
+		"english": "danger",
+		"batak": "berbahaya"
+	},
+	{
+		"english": "day",
+		"batak": "ari"
+	},
+	{
+		"english": "dead",
+		"batak": "mate"
+	},
+	{
+		"english": "deep",
+		"batak": "bagas"
+	},
+	{
+		"english": "delicious",
+		"batak": "tabo"
+	},
+	{
+		"english": "difficult",
+		"batak": "maol"
+	},
+	{
+		"english": "dirt",
+		"batak": "abu"
+	},
+	{
+		"english": "dirty",
+		"batak": "homur, hotor"
+	},
+	{
+		"english": "distant/far",
+		"batak": "doa"
+	},
+	{
+		"english": "dizzy",
+		"batak": "mirdong"
+	},
+	{
+		"english": "doctor",
+		"batak": "parubat"
+	},
+	{
+		"english": "dog",
+		"batak": "biang"
+	},
+	{
+		"english": "door",
+		"batak": "pittu"
+	},
+	{
+		"english": "down",
+		"batak": "ditoru"
+	},
+	{
+		"english": "downstairs",
+		"batak": "ditoru"
+	},
+	{
+		"english": "to drink (v.)",
+		"batak": "manginum"
+	},
+	{
+		"english": "a drink (n.)",
+		"batak": "minum"
+	},
+	{
+		"english": "dry",
+		"batak": "koring"
+	},
+	{
+		"english": "early",
+		"batak": "gira"
+	},
+	{
+		"english": "easy",
+		"batak": "horup"
+	},
+	{
+		"english": "to eat",
+		"batak": "mangallang, mangan"
+	},
+	{
+		"english": "eight",
+		"batak": "walu"
+	},
+	{
+		"english": "eleven",
+		"batak": "sappulu sada"
+	},
+	{
+		"english": "empty",
+		"batak": "kosong"
+	},
+	{
+		"english": "end",
+		"batak": "sukkup"
+	},
+	{
+		"english": "evening",
+		"batak": "bokni ari"
+	},
+	{
+		"english": "everything",
+		"batak": "sude, sudena"
+	},
+	{
+		"english": "excuse (me)",
+		"batak": "sattabi, parmisi"
+	},
+	{
+		"english": "expensive",
+		"batak": "arganai, arga"
+	},
+	{
+		"english": "experience",
+		"batak": "talenta"
+	},
+	{
+		"english": "family",
+		"batak": "pamili"
+	},
+	{
+		"english": "favourite",
+		"batak": "lomo, lomoniroha"
+	},
+	{
+		"english": "fat",
+		"batak": "mok-mok"
+	},
+	{
+		"english": "fear",
+		"batak": "mabiar"
+	},
+	{
+		"english": "to feel (an emotional state)",
+		"batak": "roha"
+	},
+	{
+		"english": "fever",
+		"batak": "mohop"
+	},
+	{
+		"english": "fight (n.)",
+		"batak": "marbada"
+	},
+	{
+		"english": "five",
+		"batak": "lima"
+	},
+	{
+		"english": "to find",
+		"batak": "mandapot, dapot"
+	},
+	{
+		"english": "fire",
+		"batak": "api"
+	},
+	{
+		"english": "first",
+		"batak": "parjolo"
+	},
+	{
+		"english": "floor",
+		"batak": "lante"
+	},
+	{
+		"english": "food",
+		"batak": "siallangon, sipangan"
+	},
+	{
+		"english": "forever",
+		"batak": "salelengna"
+	},
+	{
+		"english": "foreign",
+		"batak": "tondong,"
+	},
+	{
+		"english": "to forget",
+		"batak": "mangalupahon, lupa"
+	},
+	{
+		"english": "to forgive",
+		"batak": "manolsoli"
+	},
+	{
+		"english": "free (no cost)",
+		"batak": "pere-pere"
+	},
+	{
+		"english": "fresh",
+		"batak": "segar"
+	},
+	{
+		"english": "fried",
+		"batak": "nanigoreng"
+	},
+	{
+		"english": "friend",
+		"batak": "dongan"
+	},
+	{
+		"english": "from",
+		"batak": "sian"
+	},
+	{
+		"english": "fruit",
+		"batak": "buah"
+	},
+	{
+		"english": "full",
+		"batak": "gok"
+	},
+	{
+		"english": "funny",
+		"batak": "pekket"
+	},
+	{
+		"english": "for/to (for a cause/reason)",
+		"batak": "tu"
+	},
+	{
+		"english": "four",
+		"batak": "opat"
+	},
+	{
+		"english": "garden",
+		"batak": "balian"
+	},
+	{
+		"english": "generous",
+		"batak": "mala"
+	},
+	{
+		"english": "to give",
+		"batak": "mangalehon"
+	},
+	{
+		"english": "God",
+		"batak": "debata"
+	},
+	{
+		"english": "gold",
+		"batak": "mas"
+	},
+	{
+		"english": "government",
+		"batak": "pamarenta"
+	},
+	{
+		"english": "greedy",
+		"batak": "holit"
+	},
+	{
+		"english": "to grow",
+		"batak": "manuan"
+	},
+	{
+		"english": "guitar",
+		"batak": "karunjet"
+	},
+	{
+		"english": "girl",
+		"batak": "borua"
+	},
+	{
+		"english": "good (flavor)",
+		"batak": "tabo"
+	},
+	{
+		"english": "good at something",
+		"batak": "jago"
+	},
+	{
+		"english": "good attitude/personality",
+		"batak": "burju"
+	},
+	{
+		"english": "to guess",
+		"batak": "mandodo, dodo"
+	},
+	{
+		"english": "handsome",
+		"batak": "jogi"
+	},
+	{
+		"english": "happy",
+		"batak": "sonang"
+	},
+	{
+		"english": "to hate",
+		"batak": "marsogoniroha, manadikkon"
+	},
+	{
+		"english": "hard/difficult",
+		"batak": "maol"
+	},
+	{
+		"english": "hard",
+		"batak": "karas"
+	},
+	{
+		"english": "to have",
+		"batak": "napuna"
+	},
+	{
+		"english": "hello",
+		"batak": "horas"
+	},
+	{
+		"english": "to help",
+		"batak": "hubantu, mangurupi"
+	},
+	{
+		"english": "to hear",
+		"batak": "mambege"
+	},
+	{
+		"english": "he",
+		"batak": "ibana"
+	},
+	{
+		"english": "head",
+		"batak": "ulu, simanjujung"
+	},
+	{
+		"english": "heart",
+		"batak": "ate-ate"
+	},
+	{
+		"english": "heavy",
+		"batak": "borat"
+	},
+	{
+		"english": "here (at this place)",
+		"batak": "dison"
+	},
+	{
+		"english": "high",
+		"batak": "tibbo"
+	},
+	{
+		"english": "to hire/rent",
+		"batak": "pasewahon"
+	},
+	{
+		"english": "home",
+		"batak": "jabu"
+	},
+	{
+		"english": "hot",
+		"batak": "mohop"
+	},
+	{
+		"english": "hotel",
+		"batak": "panginapan"
+	},
+	{
+		"english": "how many",
+		"batak": "piga halak"
+	},
+	{
+		"english": "how far",
+		"batak": "sadia dao"
+	},
+	{
+		"english": "how long",
+		"batak": "piga leleng"
+	},
+	{
+		"english": "human",
+		"batak": "jolma, manisia"
+	},
+	{
+		"english": "hungry",
+		"batak": "male"
+	},
+	{
+		"english": "to hurry",
+		"batak": "pahatop"
+	},
+	{
+		"english": "hurt",
+		"batak": "hassitan"
+	},
+	{
+		"english": "husband",
+		"batak": "tunggani doli"
+	},
+	{
+		"english": "I",
+		"batak": "ahu"
+	},
+	{
+		"english": "ice",
+		"batak": "es"
+	},
+	{
+		"english": "idea",
+		"batak": "pandapot"
+	},
+	{
+		"english": "if",
+		"batak": "molo"
+	},
+	{
+		"english": "ill/sick",
+		"batak": "marsahit"
+	},
+	{
+		"english": "impossible",
+		"batak": "ndang hurippu"
+	},
+	{
+		"english": "in",
+		"batak": "di"
+	},
+	{
+		"english": "infection",
+		"batak": "marnanah"
+	},
+	{
+		"english": "injury",
+		"batak": "tarseat"
+	},
+	{
+		"english": "intelligent",
+		"batak": "pistar"
+	},
+	{
+		"english": "interesting",
+		"batak": "tarnonong"
+	},
+	{
+		"english": "to invite",
+		"batak": "manggokhon"
+	},
+	{
+		"english": "itch",
+		"batak": "narasaon"
+	},
+	{
+		"english": "jail",
+		"batak": "hurungan"
+	},
+	{
+		"english": "jealous",
+		"batak": "late"
+	},
+	{
+		"english": "job",
+		"batak": "parkarejoan, parhorjaan"
+	},
+	{
+		"english": "joke",
+		"batak": "parekelan"
+	},
+	{
+		"english": "key",
+		"batak": "gombok"
+	},
+	{
+		"english": "to kill",
+		"batak": "mamburje"
+	},
+	{
+		"english": "king",
+		"batak": "raja"
+	},
+	{
+		"english": "kiss",
+		"batak": "umma"
+	},
+	{
+		"english": "to kiss",
+		"batak": "mangummahon"
+	},
+	{
+		"english": "to know",
+		"batak": "mamboto, huboto"
+	},
+	{
+		"english": "L"
+	},
+	{
+		"english": "lake",
+		"batak": "tao"
+	},
+	{
+		"english": "land",
+		"batak": "tano"
+	},
+	{
+		"english": "language",
+		"batak": "hata"
+	},
+	{
+		"english": "last",
+		"batak": "naparpudi"
+	},
+	{
+		"english": "late",
+		"batak": "parpudi"
+	},
+	{
+		"english": "to laugh",
+		"batak": "mengkel"
+	},
+	{
+		"english": "laundry",
+		"batak": "manussi"
+	},
+	{
+		"english": "law",
+		"batak": "adat"
+	},
+	{
+		"english": "lazy",
+		"batak": "malas"
+	},
+	{
+		"english": "to learn",
+		"batak": "marsiajar"
+	},
+	{
+		"english": "to leave",
+		"batak": "lao"
+	},
+	{
+		"english": "left",
+		"batak": "hambirang"
+	},
+	{
+		"english": "less",
+		"batak": "hurang"
+	},
+	{
+		"english": "letter",
+		"batak": "govetan"
+	},
+	{
+		"english": "liar",
+		"batak": "pangototoi"
+	},
+	{
+		"english": "life",
+		"batak": "mangolu"
+	},
+	{
+		"english": "light",
+		"batak": "neang"
+	},
+	{
+		"english": "lighter",
+		"batak": "loting"
+	},
+	{
+		"english": "like/similar",
+		"batak": "hera"
+	},
+	{
+		"english": "to like",
+		"batak": "lomo"
+	},
+	{
+		"english": "to listen",
+		"batak": "mambege"
+	},
+	{
+		"english": "little",
+		"batak": "saotik"
+	},
+	{
+		"english": "to live",
+		"batak": "tinggal"
+	},
+	{
+		"english": "lock (n.)",
+		"batak": "makussi"
+	},
+	{
+		"english": "long",
+		"batak": "ganjang"
+	},
+	{
+		"english": "long time",
+		"batak": "lelenghian"
+	},
+	{
+		"english": "to look",
+		"batak": "mamereng"
+	},
+	{
+		"english": "to lose",
+		"batak": "hamagoan"
+	},
+	{
+		"english": "loud",
+		"batak": "gogo"
+	},
+	{
+		"english": "louder",
+		"batak": "pagogo-on"
+	},
+	{
+		"english": "lucky",
+		"batak": "marnasip lunch"
+	},
+	{
+		"english": "machine",
+		"batak": "masin"
+	},
+	{
+		"english": "made",
+		"batak": "pinatupa"
+	},
+	{
+		"english": "to make happen",
+		"batak": "mambahen"
+	},
+	{
+		"english": "many",
+		"batak": "godang, torop"
+	},
+	{
+		"english": "map",
+		"batak": "peta"
+	},
+	{
+		"english": "to marry",
+		"batak": "mangalua"
+	},
+	{
+		"english": "market",
+		"batak": "onan"
+	},
+	{
+		"english": "maybe",
+		"batak": "oldora"
+	},
+	{
+		"english": "to meet",
+		"batak": "manjumpangi"
+	},
+	{
+		"english": "message",
+		"batak": "barita"
+	},
+	{
+		"english": "minute",
+		"batak": "satiokin"
+	},
+	{
+		"english": "to miss",
+		"batak": "masihol"
+	},
+	{
+		"english": "money",
+		"batak": "hepeng"
+	},
+	{
+		"english": "monkey",
+		"batak": "bodat"
+	},
+	{
+		"english": "month(s)",
+		"batak": "bulan"
+	},
+	{
+		"english": "more",
+		"batak": "tambu"
+	},
+	{
+		"english": "morning",
+		"batak": "manogot"
+	},
+	{
+		"english": "mountain",
+		"batak": "dolok"
+	},
+	{
+		"english": "to name",
+		"batak": "goar"
+	},
+	{
+		"english": "name",
+		"batak": "goar"
+	},
+	{
+		"english": "never",
+		"batak": "nolang hea"
+	},
+	{
+		"english": "new",
+		"batak": "imbaru"
+	},
+	{
+		"english": "news",
+		"batak": "barita"
+	},
+	{
+		"english": "next",
+		"batak": "sahalinai"
+	},
+	{
+		"english": "next week",
+		"batak": "minggu nalahoro"
+	},
+	{
+		"english": "night",
+		"batak": "borugin"
+	},
+	{
+		"english": "nine",
+		"batak": "sia"
+	},
+	{
+		"english": "no",
+		"batak": "daong"
+	},
+	{
+		"english": "noise",
+		"batak": "gaor"
+	},
+	{
+		"english": "none",
+		"batak": "kosong"
+	},
+	{
+		"english": "nothing",
+		"batak": "ndang adong"
+	},
+	{
+		"english": "not yet",
+		"batak": "doang dope"
+	},
+	{
+		"english": "now",
+		"batak": "saonari"
+	},
+	{
+		"english": "O"
+	},
+	{
+		"english": "ocean",
+		"batak": "laut"
+	},
+	{
+		"english": "often",
+		"batak": "jot-jot"
+	},
+	{
+		"english": "old",
+		"batak": "matua"
+	},
+	{
+		"english": "on",
+		"batak": "mangolu"
+	},
+	{
+		"english": "once",
+		"batak": "sahali"
+	},
+	{
+		"english": "one",
+		"batak": "sada"
+	},
+	{
+		"english": "only",
+		"batak": "holan"
+	},
+	{
+		"english": "open",
+		"batak": "bukka"
+	},
+	{
+		"english": "to open",
+		"batak": "mambukka"
+	},
+	{
+		"english": "opportunity",
+		"batak": "kesempatan"
+	},
+	{
+		"english": "opposite",
+		"batak": "hata balikna"
+	},
+	{
+		"english": "or",
+		"batak": "manang"
+	},
+	{
+		"english": "to order/book",
+		"batak": "mamesan"
+	},
+	{
+		"english": "original",
+		"batak": "has/asli"
+	},
+	{
+		"english": "other",
+		"batak": "halakna-asing"
+	},
+	{
+		"english": "out",
+		"batak": "kawar"
+	},
+	{
+		"english": "outside",
+		"batak": "diluar"
+	},
+	{
+		"english": "to owe",
+		"batak": "maminjam owner"
+	},
+	{
+		"english": "painful",
+		"batak": "hassitan"
+	},
+	{
+		"english": "paper",
+		"batak": "harotas"
+	},
+	{
+		"english": "part",
+		"batak": "bagian"
+	},
+	{
+		"english": "party",
+		"batak": "pesta"
+	},
+	{
+		"english": "passenger",
+		"batak": "sewa/paneimpang"
+	},
+	{
+		"english": "passport",
+		"batak": "paspor"
+	},
+	{
+		"english": "past",
+		"batak": "naung lalu"
+	},
+	{
+		"english": "to pay",
+		"batak": "mambayar"
+	},
+	{
+		"english": "peace",
+		"batak": "dame"
+	},
+	{
+		"english": "people",
+		"batak": "jolma"
+	},
+	{
+		"english": "permission",
+		"batak": "parmisi/santabi"
+	},
+	{
+		"english": "pig",
+		"batak": "pinahan"
+	},
+	{
+		"english": "place",
+		"batak": "inganan"
+	},
+	{
+		"english": "to play",
+		"batak": "‘mar’ + verb root"
+	},
+	{
+		"english": "to play a game",
+		"batak": "marmeam"
+	},
+	{
+		"english": "to play (a ball game)",
+		"batak": "marbolo"
+	},
+	{
+		"english": "to play/make a joke",
+		"batak": "margait"
+	},
+	{
+		"english": "politics",
+		"batak": "taktik"
+	},
+	{
+		"english": "poor",
+		"batak": "pogos"
+	},
+	{
+		"english": "positive",
+		"batak": "positip"
+	},
+	{
+		"english": "power",
+		"batak": "hagogo-on"
+	},
+	{
+		"english": "prayer",
+		"batak": "martangian"
+	},
+	{
+		"english": "prefer",
+		"batak": "lomoniroha"
+	},
+	{
+		"english": "present (time)",
+		"batak": "saonari"
+	},
+	{
+		"english": "present/gift",
+		"batak": "mangalehon"
+	},
+	{
+		"english": "pretty",
+		"batak": "bagak, uli"
+	},
+	{
+		"english": "price",
+		"batak": "arga"
+	},
+	{
+		"english": "priest",
+		"batak": "pastor"
+	},
+	{
+		"english": "private",
+		"batak": "priyadi"
+	},
+	{
+		"english": "probably",
+		"batak": "olodora"
+	},
+	{
+		"english": "problem",
+		"batak": "sipikkiran"
+	},
+	{
+		"english": "promise",
+		"batak": "marjanji"
+	},
+	{
+		"english": "protect",
+		"batak": "manghokkop"
+	},
+	{
+		"english": "province",
+		"batak": "propinsi"
+	},
+	{
+		"english": "pull",
+		"batak": "manarik"
+	},
+	{
+		"english": "push",
+		"batak": "mangunjor"
+	},
+	{
+		"english": "question",
+		"batak": "manukkun"
+	},
+	{
+		"english": "quick/quickly",
+		"batak": "hatop"
+	},
+	{
+		"english": "quiet",
+		"batak": "sip-sip, pasisip"
+	},
+	{
+		"english": "radio",
+		"batak": "radio"
+	},
+	{
+		"english": "rain",
+		"batak": "udan"
+	},
+	{
+		"english": "to rain",
+		"batak": "udan"
+	},
+	{
+		"english": "raw",
+		"batak": "nasohona loppa"
+	},
+	{
+		"english": "to read",
+		"batak": "manjaha"
+	},
+	{
+		"english": "ready",
+		"batak": "nunga sae"
+	},
+	{
+		"english": "reason",
+		"batak": "ulani, alani"
+	},
+	{
+		"english": "receipt",
+		"batak": "bon, faktor"
+	},
+	{
+		"english": "to receive",
+		"batak": "manjalo"
+	},
+	{
+		"english": "recently",
+		"batak": "ipe-dope"
+	},
+	{
+		"english": "relationship",
+		"batak": "pardonganon"
+	},
+	{
+		"english": "relax",
+		"batak": "paulakgogo"
+	},
+	{
+		"english": "religion",
+		"batak": "agama"
+	},
+	{
+		"english": "to remember",
+		"batak": "mangingot, ingot"
+	},
+	{
+		"english": "to rent",
+		"batak": "manewa, sewa"
+	},
+	{
+		"english": "to reserve",
+		"batak": "paradehon"
+	},
+	{
+		"english": "respect",
+		"batak": "pasambarhon"
+	},
+	{
+		"english": "responsibility",
+		"batak": "tanggungjawab"
+	},
+	{
+		"english": "to rest",
+		"batak": "paulak hosa"
+	},
+	{
+		"english": "restaurant",
+		"batak": "kode"
+	},
+	{
+		"english": "to return",
+		"batak": "paulakhon, mulak"
+	},
+	{
+		"english": "rice",
+		"batak": "idahan (cooked), boras (uncooked)"
+	},
+	{
+		"english": "rich",
+		"batak": "mamora"
+	},
+	{
+		"english": "right (not left)",
+		"batak": "siamun"
+	},
+	{
+		"english": "right/correct",
+		"batak": "situtu, sitohu, sintong"
+	},
+	{
+		"english": "road",
+		"batak": "dalan robber/theif"
+	},
+	{
+		"english": "roof",
+		"batak": "atap"
+	},
+	{
+		"english": "roam",
+		"batak": "mardalan, dalani round"
+	},
+	{
+		"english": "sad",
+		"batak": "lungun"
+	},
+	{
+		"english": "safe",
+		"batak": "aman"
+	},
+	{
+		"english": "salty",
+		"batak": "asin"
+	},
+	{
+		"english": "same",
+		"batak": "sarupa"
+	},
+	{
+		"english": "to save",
+		"batak": "manimpan"
+	},
+	{
+		"english": "to say",
+		"batak": "mandok"
+	},
+	{
+		"english": "scenery",
+		"batak": "panatapan"
+	},
+	{
+		"english": "to search",
+		"batak": "mangalului"
+	},
+	{
+		"english": "a second",
+		"batak": "satokkin (very short amount of time)"
+	},
+	{
+		"english": "secret",
+		"batak": "sitabunian"
+	},
+	{
+		"english": "to see",
+		"batak": "mamereng, mangida"
+	},
+	{
+		"english": "selfish",
+		"batak": "siginjangroha"
+	},
+	{
+		"english": "to sell",
+		"batak": "manjual"
+	},
+	{
+		"english": "to send",
+		"batak": "mangirim"
+	},
+	{
+		"english": "serious",
+		"batak": "marsitutu"
+	},
+	{
+		"english": "several",
+		"batak": "piga-piga halak"
+	},
+	{
+		"english": "seven",
+		"batak": "pitu"
+	},
+	{
+		"english": "shape",
+		"batak": "rupana"
+	},
+	{
+		"english": "to share",
+		"batak": "mambagi"
+	},
+	{
+		"english": "she",
+		"batak": "ibana"
+	},
+	{
+		"english": "short (time)",
+		"batak": "pukkul"
+	},
+	{
+		"english": "short (height)",
+		"batak": "metmet"
+	},
+	{
+		"english": "to shout",
+		"batak": "manjou"
+	},
+	{
+		"english": "to show",
+		"batak": "patuduhon"
+	},
+	{
+		"english": "to shut",
+		"batak": "mambodil"
+	},
+	{
+		"english": "shy",
+		"batak": "maila"
+	},
+	{
+		"english": "sick",
+		"batak": "marsahit"
+	},
+	{
+		"english": "sign",
+		"batak": "manekken"
+	},
+	{
+		"english": "similar",
+		"batak": "sarupa"
+	},
+	{
+		"english": "to sing",
+		"batak": "marlogu"
+	},
+	{
+		"english": "single (not married)",
+		"batak": "doli-doli (man), anakboru (woman)"
+	},
+	{
+		"english": "to sit",
+		"batak": "hundul"
+	},
+	{
+		"english": "situation",
+		"batak": "situasi"
+	},
+	{
+		"english": "six",
+		"batak": "onom"
+	},
+	{
+		"english": "sleep",
+		"batak": "modoni"
+	},
+	{
+		"english": "to sleep",
+		"batak": "laho modom"
+	},
+	{
+		"english": "sleepy/tired",
+		"batak": "tartuddu"
+	},
+	{
+		"english": "slow",
+		"batak": "nanget/palan"
+	},
+	{
+		"english": "slowly",
+		"batak": "nanget-nanget, palan - palan"
+	},
+	{
+		"english": "surprise",
+		"batak": "adong mai"
+	},
+	{
+		"english": "sweet",
+		"batak": "manis"
+	},
+	{
+		"english": "to swim",
+		"batak": "marlange"
+	},
+	{
+		"english": "they",
+		"batak": "halaki"
+	},
+	{
+		"english": "to take/carry",
+		"batak": "mamboan"
+	},
+	{
+		"english": "to talk",
+		"batak": "makkatai"
+	},
+	{
+		"english": "tall",
+		"batak": "timbo"
+	},
+	{
+		"english": "to taste",
+		"batak": "mandai"
+	},
+	{
+		"english": "to teach",
+		"batak": "mangajari"
+	},
+	{
+		"english": "telephone",
+		"batak": "talipon"
+	},
+	{
+		"english": "ten",
+		"batak": "sappulu"
+	},
+	{
+		"english": "thanks/thank you",
+		"batak": "mauliate"
+	},
+	{
+		"english": "there (at that place)",
+		"batak": "disai"
+	},
+	{
+		"english": "thick",
+		"batak": "tobal"
+	},
+	{
+		"english": "thin",
+		"batak": "kurus"
+	},
+	{
+		"english": "to think",
+		"batak": "mamikkiri, pikkiri"
+	},
+	{
+		"english": "thirsty",
+		"batak": "mauas"
+	},
+	{
+		"english": "thought",
+		"batak": "manurut"
+	},
+	{
+		"english": "three",
+		"batak": "tolu"
+	},
+	{
+		"english": "tired",
+		"batak": "loja"
+	},
+	{
+		"english": "to (me)",
+		"batak": "tu ahu"
+	},
+	{
+		"english": "to (you)",
+		"batak": "tuho"
+	},
+	{
+		"english": "toilet",
+		"batak": "vehseh, WC"
+	},
+	{
+		"english": "tonight",
+		"batak": "bodari"
+	},
+	{
+		"english": "too/also",
+		"batak": "dohot"
+	},
+	{
+		"english": "tooth",
+		"batak": "ngingi"
+	},
+	{
+		"english": "torch/flashlight",
+		"batak": "senter"
+	},
+	{
+		"english": "to touch",
+		"batak": "manondong, maniop, manjamah"
+	},
+	{
+		"english": "tour",
+		"batak": "mardallan-dalani"
+	},
+	{
+		"english": "tourist",
+		"batak": "tama"
+	},
+	{
+		"english": "tondong town",
+		"batak": "kota"
+	},
+	{
+		"english": "to translate",
+		"batak": "manorangkoh"
+	},
+	{
+		"english": "small",
+		"batak": "tagelleng"
+	},
+	{
+		"english": "smell/stench (n.)",
+		"batak": "bou, manggus"
+	},
+	{
+		"english": "to smile",
+		"batak": "mekkel"
+	},
+	{
+		"english": "a good smell",
+		"batak": "angur"
+	},
+	{
+		"english": "some",
+		"batak": "piga-piga"
+	},
+	{
+		"english": "somebody",
+		"batak": "sahalak"
+	},
+	{
+		"english": "something",
+		"batak": "adongmai, sesuatu"
+	},
+	{
+		"english": "song",
+		"batak": "ende"
+	},
+	{
+		"english": "soon",
+		"batak": "sahatopna"
+	},
+	{
+		"english": "sorry",
+		"batak": "santabi"
+	},
+	{
+		"english": "souvenir",
+		"batak": "tokko ukiran"
+	},
+	{
+		"english": "to speak",
+		"batak": "makkatai"
+	},
+	{
+		"english": "special",
+		"batak": "khusus"
+	},
+	{
+		"english": "spicy",
+		"batak": "siak"
+	},
+	{
+		"english": "stack (n.)",
+		"batak": "marsitipahan"
+	},
+	{
+		"english": "to start",
+		"batak": "mamulai"
+	},
+	{
+		"english": "to stay",
+		"batak": "tinggal"
+	},
+	{
+		"english": "to steal",
+		"batak": "manakko"
+	},
+	{
+		"english": "to stop",
+		"batak": "pasitoppon"
+	},
+	{
+		"english": "story",
+		"batak": "sarita"
+	},
+	{
+		"english": "straight",
+		"batak": "lorus"
+	},
+	{
+		"english": "strange",
+		"batak": "aneh, asing"
+	},
+	{
+		"english": "street",
+		"batak": "dalan"
+	},
+	{
+		"english": "strong",
+		"batak": "gogo, pirma"
+	},
+	{
+		"english": "stupid",
+		"batak": "ototo"
+	},
+	{
+		"english": "suddenly",
+		"batak": "soppong"
+	},
+	{
+		"english": "sure",
+		"batak": "sitoho"
+	},
+	{
+		"english": "to trek",
+		"batak": "mandaki"
+	},
+	{
+		"english": "trip",
+		"batak": "tirip"
+	},
+	{
+		"english": "to try (a dish)",
+		"batak": "mandai"
+	},
+	{
+		"english": "to try/test",
+		"batak": "manorong, manubah"
+	},
+	{
+		"english": "two",
+		"batak": "dua"
+	},
+	{
+		"english": "true",
+		"batak": "situho, situtu"
+	},
+	{
+		"english": "trust",
+		"batak": "porsea"
+	},
+	{
+		"english": "twelve",
+		"batak": "sappulu dua"
+	},
+	{
+		"english": "vacation",
+		"batak": "lowongan"
+	},
+	{
+		"english": "valley",
+		"batak": "ramba-ramba"
+	},
+	{
+		"english": "valuable",
+		"batak": "arta naummarga"
+	},
+	{
+		"english": "value",
+		"batak": "arta"
+	},
+	{
+		"english": "very",
+		"batak": "suffix ‘"
+	},
+	{
+		"english": "view",
+		"batak": "panatapan"
+	},
+	{
+		"english": "to visit",
+		"batak": "martondong"
+	},
+	{
+		"english": "village",
+		"batak": "huta"
+	},
+	{
+		"english": "vomit",
+		"batak": "muta"
+	},
+	{
+		"english": "to wait",
+		"batak": "mamette"
+	},
+	{
+		"english": "to want",
+		"batak": "laho"
+	},
+	{
+		"english": "to walk",
+		"batak": "mardalan"
+	},
+	{
+		"english": "warm",
+		"batak": "las"
+	},
+	{
+		"english": "to wash",
+		"batak": "manussi"
+	},
+	{
+		"english": "to watch",
+		"batak": "mamereng"
+	},
+	{
+		"english": "water",
+		"batak": "aek, mual"
+	},
+	{
+		"english": "waterfall",
+		"batak": "binanga"
+	},
+	{
+		"english": "we (inclusive)",
+		"batak": "hita"
+	},
+	{
+		"english": "we (exclusive)",
+		"batak": "hami"
+	},
+	{
+		"english": "weather",
+		"batak": "suassa"
+	},
+	{
+		"english": "wet",
+		"batak": "maraek"
+	},
+	{
+		"english": "what",
+		"batak": "aha"
+	},
+	{
+		"english": "what time",
+		"batak": "pukkul piga"
+	},
+	{
+		"english": "where",
+		"batak": "di-dia, hu-dia, tu-dia"
+	},
+	{
+		"english": "when",
+		"batak": "andigan (present time),"
+	},
+	{
+		"english": "nandigan (past time)"
+	},
+	{
+		"english": "who",
+		"batak": "ise"
+	},
+	{
+		"english": "whole",
+		"batak": "lobang"
+	},
+	{
+		"english": "why",
+		"batak": "alani aha"
+	},
+	{
+		"english": "wide",
+		"batak": "luas"
+	},
+	{
+		"english": "wife",
+		"batak": "pardijabu, inang-inang"
+	},
+	{
+		"english": "to win",
+		"batak": "monang"
+	},
+	{
+		"english": "wind",
+		"batak": "alogo"
+	},
+	{
+		"english": "wire",
+		"batak": "kawat"
+	},
+	{
+		"english": "wise",
+		"batak": "pistar"
+	},
+	{
+		"english": "with",
+		"batak": "dohot"
+	},
+	{
+		"english": "without",
+		"batak": "ndang pola"
+	},
+	{
+		"english": "wood",
+		"batak": "hau"
+	},
+	{
+		"english": "woods/jungle",
+		"batak": "hau"
+	},
+	{
+		"english": "world",
+		"batak": "portibi"
+	},
+	{
+		"english": "to work",
+		"batak": "karejo"
+	},
+	{
+		"english": "to write",
+		"batak": "manurat"
+	},
+	{
+		"english": "wrong",
+		"batak": "ndang sintong"
+	},
+	{
+		"english": "year",
+		"batak": "taon"
+	},
+	{
+		"english": "yesterday",
+		"batak": "nattoari"
+	},
+	{
+		"english": "yes",
+		"batak": "olo"
+	},
+	{
+		"english": "yet",
+		"batak": "ndaong dope"
+	},
+	{
+		"english": "you (sg.)",
+		"batak": "ho, ko"
+	},
+	{
+		"english": "you (pl.)",
+		"batak": "hamu sudena, hamuna"
+	},
+	{
+		"english": "young",
+		"batak": "poso"
+	},
+	{
+		"english": "young man/girl (a youth )",
+		"batak": "naposo bulung"
+	}
+]
