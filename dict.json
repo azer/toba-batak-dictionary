@@ -96,7 +96,8 @@
 		"batak": "lereng"
 	},
 	{
-		"english": "bill/cheuque - bon"
+		"english": "bill/cheuque",
+    "batak": "bon"
 	},
 	{
 		"english": "bird",
@@ -167,7 +168,8 @@
 		"batak": "boe/i + verb"
 	},
 	{
-		"english": "canoe (small boat) - solu"
+		"english": "canoe (small boat)",
+    "batak":"solu"
 	},
 	{
 		"english": "careful",
@@ -178,7 +180,8 @@
 		"batak": "mamboan"
 	},
 	{
-		"english": "to cause (to happen) - mambahen"
+		"english": "to cause (to happen)",
+    "batak": "mambahen"
 	},
 	{
 		"english": "chair",
@@ -733,9 +736,6 @@
 		"batak": "mamboto, huboto"
 	},
 	{
-		"english": "L"
-	},
-	{
 		"english": "lake",
 		"batak": "tao"
 	},
@@ -990,9 +990,6 @@
 	{
 		"english": "now",
 		"batak": "saonari"
-	},
-	{
-		"english": "O"
 	},
 	{
 		"english": "ocean",
@@ -1856,10 +1853,7 @@
 	},
 	{
 		"english": "when",
-		"batak": "andigan (present time),"
-	},
-	{
-		"english": "nandigan (past time)"
+		"batak": "andigan (present time), nandigan (past time)"
 	},
 	{
 		"english": "who",
@@ -1960,5 +1954,9 @@
 	{
 		"english": "young man/girl (a youth )",
 		"batak": "naposo bulung"
-	}
+	},
+  {
+    "english": "I love you",
+    "batak":  "Holong do rohangku tu ho"
+  }
 ]
